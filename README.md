@@ -10,3 +10,7 @@ display size :   72x40  pixels
 <p align="center">
   <img src="./orientation.png" width=400>
 </p>
+
+## Display commands
+
+See test script _test_oled70x40.py_
