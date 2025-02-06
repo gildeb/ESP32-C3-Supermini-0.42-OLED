@@ -13,4 +13,4 @@ display size :   72x40  pixels
 
 ## Display commands
 
-See test script _test_oled70x40.py_
+See test script _test_oled_70x40.py_
