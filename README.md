@@ -4,3 +4,4 @@
   <img src="./ESP32-C3 0.42 OLED.png" width=150>
 </p>
   
+## Display orientation
