@@ -15,5 +15,5 @@ display size :   72x40  pixels
 
 See test script _test_oled_70x40.py_
 
-https://github.com/user-attachments/assets/8f3d2384-98e0-45e2-9675-5d411a1fd178
 
+[test_oled_72x40.webm](https://github.com/user-attachments/assets/38a72c7a-e5ca-4bb0-9686-2532d5eccc67)
